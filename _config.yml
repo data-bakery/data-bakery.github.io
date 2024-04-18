@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Data Bakery"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Young-Min Cho"
+name                     : "Young-Min Joshua Cho"
 description              : "Data bakery blog"
 url                      : "https://data-bakery.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
