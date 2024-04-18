@@ -1,5 +1,6 @@
 ---
-layout : single
-title : "First page"
+layout: single
+title: "Welcome"
 ---
-# Welcome to Data Bakery
+
+"First posting from Toronto"
